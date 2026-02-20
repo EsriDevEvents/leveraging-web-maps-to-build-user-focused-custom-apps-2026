@@ -9,5 +9,6 @@ Move away from hard-coding maps in your apps and learn how you can take full adv
 Most of the slides are made available at [Esri Events > Proceedings](https://www.esri.com/en-us/about/events/index/proceedings).
 
 ## Related sessions
+[Effective Web Maps: Strategies for Using Web Maps Across Your Organization](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761009757486001yqCZ)
+[Map Viewer: Extending the Web Map with Arcade](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761005533302001F9Mq)
 
-...
