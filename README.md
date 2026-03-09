@@ -13,3 +13,5 @@ Most of the slides are made available at [Esri Events > Proceedings](https://www
 [Effective Web Maps: Strategies for Using Web Maps Across Your Organization](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761009757486001yqCZ)
 
 [Map Viewer: Extending the Web Map with Arcade](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761005533302001F9Mq)
+
+[ArcGIS Maps SDKs for Native Apps: Real-Time Situational Awareness](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761109242684001MyB2)
