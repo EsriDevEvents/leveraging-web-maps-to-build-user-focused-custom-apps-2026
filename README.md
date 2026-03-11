@@ -15,3 +15,11 @@ Most of the slides are made available at [Esri Events > Proceedings](https://www
 [Map Viewer: Extending the Web Map with Arcade](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761005533302001F9Mq)
 
 [ArcGIS Maps SDKs for Native Apps: Real-Time Situational Awareness](https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761109242684001MyB2)
+
+## More Resources
+
+[Web Map Specification](https://developers.arcgis.com/web-map-specification/objects/webmap/)
+
+[ArcGIS Maps SDKs](https://developers.arcgis.com/documentation/#sdks-and-apis)
+
+[ArcgGIS Maps SDK for .NET Toolkit](https://developers.arcgis.com/net/toolkit/)
